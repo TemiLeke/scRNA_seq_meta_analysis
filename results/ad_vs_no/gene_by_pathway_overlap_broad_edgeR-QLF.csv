@@ -1,0 +1,84 @@
+,genes,pathway,count
+0,RPS27,protein targeting to ER (GO:0045047),14
+1,RPS27,rRNA metabolic process (GO:0016072),14
+2,RPS27,ribosome assembly (GO:0042255),14
+3,RPS27,rRNA processing (GO:0006364),14
+4,RPS27,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),14
+5,RPS27,ncRNA processing (GO:0034470),14
+6,RPS27,peptide biosynthetic process (GO:0043043),14
+7,RPS27,viral transcription (GO:0019083),14
+8,RPS27,cotranslational protein targeting to membrane (GO:0006613),14
+9,RPS27,viral gene expression (GO:0019080),14
+10,RPS27,nuclear-transcribed mRNA catabolic process (GO:0000956),14
+11,RPS27,ribosomal small subunit assembly (GO:0000028),14
+12,RPS27,translation (GO:0006412),14
+13,RPS27,ribosome biogenesis (GO:0042254),14
+14,BAIAP2,positive regulation of supramolecular fiber organization (GO:1902905),11
+15,BAIAP2,vascular endothelial growth factor receptor signaling pathway (GO:0048010),11
+16,BAIAP2,Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096),11
+17,BAIAP2,neuron projection morphogenesis (GO:0048812),11
+18,BAIAP2,Fc receptor mediated stimulatory signaling pathway (GO:0002431),11
+19,BAIAP2,Fc-gamma receptor signaling pathway (GO:0038094),11
+20,BAIAP2,positive regulation of cytoskeleton organization (GO:0051495),11
+21,BAIAP2,axon development (GO:0061564),11
+22,BAIAP2,cell morphogenesis involved in neuron differentiation (GO:0048667),11
+23,BAIAP2,regulation of actin cytoskeleton reorganization (GO:2000249),11
+24,BAIAP2,regulation of cytoskeleton organization (GO:0051493),11
+25,AGRN,positive regulation of synapse assembly (GO:0051965),10
+26,AGRN,acetylcholine receptor signaling pathway (GO:0095500),10
+27,AGRN,receptor clustering (GO:0043113),10
+28,AGRN,aminoglycan metabolic process (GO:0006022),10
+29,AGRN,aminoglycan biosynthetic process (GO:0006023),10
+30,AGRN,positive regulation of developmental growth (GO:0048639),10
+31,AGRN,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),10
+32,AGRN,aminoglycan catabolic process (GO:0006026),10
+33,AGRN,neuronal ion channel clustering (GO:0045161),10
+34,AGRN,regulation of filopodium assembly (GO:0051489),10
+35,SYN1,regulation of calcium ion-dependent exocytosis (GO:0017158),7
+36,SYN1,regulation of cellular localization (GO:0060341),7
+37,SYN1,regulation of neurotransmitter transport (GO:0051588),7
+38,SYN1,regulation of synaptic vesicle cycle (GO:0098693),7
+39,SYN1,regulation of secretion by cell (GO:1903530),7
+40,SYN1,chemical synaptic transmission (GO:0007268),7
+41,SYN1,regulation of synaptic vesicle transport (GO:1902803),7
+42,RAB11A,mitotic sister chromatid segregation (GO:0000070),5
+43,RAB11A,astral microtubule organization (GO:0030953),5
+44,RAB11A,renal water homeostasis (GO:0003091),5
+45,ADGRL1,regulation of synapse maturation (GO:0090128),5
+46,ADGRL1,calcium-mediated signaling using intracellular calcium source (GO:0035584),5
+47,GNAS,homotypic cell-cell adhesion (GO:0034109),5
+48,GNAS,dopamine receptor signaling pathway (GO:0007212),5
+49,GNAS,skeletal system development (GO:0001501),5
+50,GNAS,platelet aggregation (GO:0070527),5
+51,GNAS,bone development (GO:0060348),5
+52,RAB11A,melanosome transport (GO:0032402),5
+53,ADGRL1,positive regulation of nervous system development (GO:0051962),5
+54,ADGRL1,calcium-mediated signaling (GO:0019722),5
+55,ADGRL1,positive regulation of synapse maturation (GO:0090129),5
+56,RAB11A,pigment granule transport (GO:0051904),5
+57,GPSM2,regulation of protein localization to cell cortex (GO:1904776),4
+58,GPSM2,establishment of mitotic spindle orientation (GO:0000132),4
+59,DDX56,rRNA metabolic process (GO:0016072),4
+60,DDX56,ribosome biogenesis (GO:0042254),4
+61,NRXN2,protein localization to synapse (GO:0035418),4
+62,NRXN2,receptor clustering (GO:0043113),4
+63,NRXN2,postsynaptic density assembly (GO:0097107),4
+64,NRXN2,chemical synaptic transmission (GO:0007268),4
+65,DDX56,ncRNA processing (GO:0034470),4
+66,DDX56,rRNA processing (GO:0006364),4
+67,GPSM2,positive regulation of cytoskeleton organization (GO:0051495),4
+68,GPSM2,establishment of mitotic spindle localization (GO:0040001),4
+69,PDE5A,cGMP metabolic process (GO:0046068),3
+70,PDE5A,cyclic nucleotide catabolic process (GO:0009214),3
+71,PDE5A,purine ribonucleotide catabolic process (GO:0009154),3
+72,UBTF,termination of RNA polymerase I transcription (GO:0006363),2
+73,UBTF,transcription elongation from RNA polymerase I promoter (GO:0006362),2
+74,PIAS4,double-strand break repair via nonhomologous end joining (GO:0006303),2
+75,PIAS4,positive regulation of protein sumoylation (GO:0033235),2
+76,FN1,extracellular matrix disassembly (GO:0022617),1
+77,SLC6A8,amino acid transport (GO:0006865),1
+78,POLE2,DNA replication initiation (GO:0006270),1
+79,MYO9B,Rho protein signal transduction (GO:0007266),1
+80,ANGPT2,regulation of blood vessel endothelial cell migration (GO:0043535),1
+81,AGAP3,regulation of ARF protein signal transduction (GO:0032012),1
+82,RAB40C,regulation of secretion by cell (GO:1903530),1

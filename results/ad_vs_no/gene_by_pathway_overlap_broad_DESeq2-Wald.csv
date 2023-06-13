@@ -1,0 +1,716 @@
+,genes,pathway,count
+0,PTK2B,positive regulation of cell projection organization (GO:0031346),24
+1,PTK2B,regulation of release of sequestered calcium ion into cytosol (GO:0051279),24
+2,PTK2B,regulation of establishment or maintenance of cell polarity (GO:0032878),24
+3,PTK2B,regulation of neurotransmitter receptor activity (GO:0099601),24
+4,PTK2B,ionotropic glutamate receptor signaling pathway (GO:0035235),24
+5,PTK2B,positive regulation of stress-activated MAPK cascade (GO:0032874),24
+6,PTK2B,regulation of NMDA receptor activity (GO:2000310),24
+7,PTK2B,"positive regulation of synaptic transmission, glutamatergic (GO:0051968)",24
+8,PTK2B,regulation of calcium ion transport into cytosol (GO:0010522),24
+9,PTK2B,regulation of calcium ion transmembrane transport (GO:1903169),24
+10,PTK2B,positive regulation of excitatory postsynaptic potential (GO:2000463),24
+11,PTK2B,cellular response to retinoic acid (GO:0071300),24
+12,PTK2B,regulation of neuron projection development (GO:0010975),24
+13,PTK2B,regulation of cation channel activity (GO:2001257),24
+14,PTK2B,positive regulation of cytoskeleton organization (GO:0051495),24
+15,PTK2B,vascular endothelial growth factor receptor signaling pathway (GO:0048010),24
+16,PTK2B,positive regulation of neuron projection development (GO:0010976),24
+17,PTK2B,negative regulation of biomineral tissue development (GO:0070168),24
+18,PTK2B,regulation of actin cytoskeleton reorganization (GO:2000249),24
+19,PTK2B,positive regulation of neuron differentiation (GO:0045666),24
+20,PTK2B,regulation of glutamate receptor signaling pathway (GO:1900449),24
+21,PTK2B,positive regulation of supramolecular fiber organization (GO:1902905),24
+22,PTK2B,positive regulation of synaptic transmission (GO:0050806),24
+23,PTK2B,regulation of establishment of cell polarity (GO:2000114),24
+24,RPS19,ribosome assembly (GO:0042255),21
+25,RPS19,peptide biosynthetic process (GO:0043043),21
+26,RPS19,protein targeting to ER (GO:0045047),21
+27,RPS19,viral gene expression (GO:0019080),21
+28,RPS19,viral transcription (GO:0019083),21
+29,RPS19,rRNA processing (GO:0006364),21
+30,RPS19,ncRNA processing (GO:0034470),21
+31,RPS19,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),21
+32,RPS19,cotranslational protein targeting to membrane (GO:0006613),21
+33,RPS19,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462)",21
+34,RPS19,nuclear-transcribed mRNA catabolic process (GO:0000956),21
+35,RPS19,negative regulation of immune effector process (GO:0002698),21
+36,RPS19,negative regulation of innate immune response (GO:0045824),21
+37,RPS19,ribosomal small subunit assembly (GO:0000028),21
+38,RPS19,translation (GO:0006412),21
+39,RPS19,regulation of cell development (GO:0060284),21
+40,RPS19,ribosome biogenesis (GO:0042254),21
+41,RPS19,defense response to bacterium (GO:0042742),21
+42,RPS19,positive regulation of innate immune response (GO:0045089),21
+43,RPS19,rRNA metabolic process (GO:0016072),21
+44,RPS19,maturation of SSU-rRNA (GO:0030490),21
+45,DMTN,lamellipodium organization (GO:0097581),19
+46,DMTN,cellular response to cAMP (GO:0071320),19
+47,CAV3,positive regulation of supramolecular fiber organization (GO:1902905),19
+48,CAV3,cholesterol homeostasis (GO:0042632),19
+49,CAV3,regulation of membrane depolarization (GO:0003254),19
+50,CAV3,regulation of microtubule polymerization (GO:0031113),19
+51,CAV3,plasma membrane organization (GO:0007009),19
+52,DMTN,negative regulation of cell-matrix adhesion (GO:0001953),19
+53,CAV3,lipid transport (GO:0006869),19
+54,DMTN,regulation of filopodium assembly (GO:0051489),19
+55,CAV3,negative regulation of protein kinase activity (GO:0006469),19
+56,DMTN,positive regulation of cell morphogenesis involved in differentiation (GO:0010770),19
+57,DMTN,regulation of lamellipodium organization (GO:1902743),19
+58,DMTN,calcium-mediated signaling (GO:0019722),19
+59,DMTN,regulation of cytoskeleton organization (GO:0051493),19
+60,DMTN,myeloid cell development (GO:0061515),19
+61,DMTN,calcium-mediated signaling using intracellular calcium source (GO:0035584),19
+62,DMTN,negative regulation of intracellular protein transport (GO:0090317),19
+63,DMTN,negative regulation of cell junction assembly (GO:1901889),19
+64,DMTN,negative regulation of peptidyl-threonine phosphorylation (GO:0010801),19
+65,DMTN,negative regulation of adherens junction organization (GO:1903392),19
+66,DMTN,negative regulation of peptidyl-tyrosine phosphorylation (GO:0050732),19
+67,DMTN,negative regulation of protein localization to membrane (GO:1905476),19
+68,DMTN,negative regulation of focal adhesion assembly (GO:0051895),19
+69,CAV3,regulation of ventricular cardiac muscle cell membrane repolarization (GO:0060307),19
+70,CAV3,regulation of ion transmembrane transporter activity (GO:0032412),19
+71,CAV3,regulation of cytosolic calcium ion concentration (GO:0051480),19
+72,DMTN,response to cAMP (GO:0051591),19
+73,CAV3,organic substance transport (GO:0071702),19
+74,CAV3,regulation of cardiac muscle cell contraction (GO:0086004),19
+75,CAV3,regulation of heart contraction (GO:0008016),19
+76,CAV3,muscle organ development (GO:0007517),19
+77,CAV3,regulation of calcium ion transmembrane transporter activity (GO:1901019),19
+78,CAV3,negative regulation of kinase activity (GO:0033673),19
+79,DMTN,regulation of peptidyl-threonine phosphorylation (GO:0010799),19
+80,CAV3,regulation of calcium ion transmembrane transport (GO:1903169),19
+81,CAV3,sterol homeostasis (GO:0055092),19
+82,CAV3,regulation of cardiac muscle cell membrane repolarization (GO:0099623),19
+83,RPSA,ribosome biogenesis (GO:0042254),18
+84,RPSA,viral gene expression (GO:0019080),18
+85,RPSA,rRNA-containing ribonucleoprotein complex export from nucleus (GO:0071428),18
+86,RPSA,ribosomal small subunit assembly (GO:0000028),18
+87,RPSA,rRNA metabolic process (GO:0016072),18
+88,RPSA,protein targeting to ER (GO:0045047),18
+89,RPSA,ncRNA processing (GO:0034470),18
+90,RPSA,rRNA transport (GO:0051029),18
+91,RPSA,nuclear-transcribed mRNA catabolic process (GO:0000956),18
+92,RPSA,"endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000479)",18
+93,RPSA,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462)",18
+94,RPSA,cotranslational protein targeting to membrane (GO:0006613),18
+95,RPSA,translation (GO:0006412),18
+96,RPSA,peptide biosynthetic process (GO:0043043),18
+97,RPSA,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),18
+98,RPSA,rRNA processing (GO:0006364),18
+99,RPSA,ribosome assembly (GO:0042255),18
+100,RPSA,viral transcription (GO:0019083),18
+101,RPL6,viral transcription (GO:0019083),16
+102,RPL6,ribosome assembly (GO:0042255),16
+103,RPL6,ribosomal large subunit assembly (GO:0000027),16
+104,RPL6,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),16
+105,RPL6,rRNA processing (GO:0006364),16
+106,RPL6,viral gene expression (GO:0019080),16
+107,RPL6,cytoplasmic translation (GO:0002181),16
+108,RPL6,protein targeting to ER (GO:0045047),16
+109,RPL6,peptide biosynthetic process (GO:0043043),16
+110,RPL6,nuclear-transcribed mRNA catabolic process (GO:0000956),16
+111,RPL6,cotranslational protein targeting to membrane (GO:0006613),16
+112,RPL6,ribosomal large subunit biogenesis (GO:0042273),16
+113,RPL6,ncRNA processing (GO:0034470),16
+114,RPL6,translation (GO:0006412),16
+115,RPL6,ribosome biogenesis (GO:0042254),16
+116,RPL6,rRNA metabolic process (GO:0016072),16
+117,ARHGAP35,regulation of cytoskeleton organization (GO:0051493),15
+118,ARHGAP35,neuron projection fasciculation (GO:0106030),15
+119,ARHGAP35,epiboly involved in wound healing (GO:0090505),15
+120,ARHGAP35,regulation of actin polymerization or depolymerization (GO:0008064),15
+121,ARHGAP35,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),15
+122,THY1,negative regulation of neuron projection development (GO:0010977),15
+123,THY1,negative regulation of kinase activity (GO:0033673),15
+124,THY1,negative regulation of peptidyl-tyrosine phosphorylation (GO:0050732),15
+125,RPL10A,rRNA metabolic process (GO:0016072),15
+126,RPL10A,peptide biosynthetic process (GO:0043043),15
+127,THY1,regulation of axonogenesis (GO:0050770),15
+128,RPL10A,ncRNA processing (GO:0034470),15
+129,RPL10A,ribosomal large subunit biogenesis (GO:0042273),15
+130,RPL10A,protein targeting to ER (GO:0045047),15
+131,RPL10A,viral transcription (GO:0019083),15
+132,THY1,regulation of T cell activation (GO:0050863),15
+133,THY1,negative regulation of protein tyrosine kinase activity (GO:0061099),15
+134,THY1,C-terminal protein amino acid modification (GO:0018410),15
+135,THY1,positive regulation of adherens junction organization (GO:1903393),15
+136,THY1,positive regulation of cell junction assembly (GO:1901890),15
+137,ARHGAP35,positive regulation of cell projection organization (GO:0031346),15
+138,ARHGAP35,regulation of cilium assembly (GO:1902017),15
+139,THY1,regulation of release of sequestered calcium ion into cytosol (GO:0051279),15
+140,THY1,positive regulation of focal adhesion assembly (GO:0051894),15
+141,THY1,negative regulation of protein kinase activity (GO:0006469),15
+142,THY1,negative regulation of cell motility (GO:2000146),15
+143,THY1,regulation of protein tyrosine kinase activity (GO:0061097),15
+144,RPL10A,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),15
+145,RPL10A,rRNA processing (GO:0006364),15
+146,ARHGAP35,axon development (GO:0061564),15
+147,THY1,receptor clustering (GO:0043113),15
+148,ARHGAP35,regulation of supramolecular fiber organization (GO:1902903),15
+149,RPL23A,ribosome assembly (GO:0042255),15
+150,RPL23A,peptide biosynthetic process (GO:0043043),15
+151,RPL23A,ribosomal large subunit biogenesis (GO:0042273),15
+152,RPL23A,cotranslational protein targeting to membrane (GO:0006613),15
+153,RPL23A,ribosome biogenesis (GO:0042254),15
+154,RPL23A,nuclear-transcribed mRNA catabolic process (GO:0000956),15
+155,RPL23A,viral gene expression (GO:0019080),15
+156,RPL23A,translation (GO:0006412),15
+157,RPL23A,rRNA metabolic process (GO:0016072),15
+158,RPL10A,maturation of LSU-rRNA (GO:0000470),15
+159,RPL10A,cotranslational protein targeting to membrane (GO:0006613),15
+160,RPL10A,ribosome biogenesis (GO:0042254),15
+161,RPL10A,nuclear-transcribed mRNA catabolic process (GO:0000956),15
+162,RPL10A,translation (GO:0006412),15
+163,RPL10A,cytoplasmic translation (GO:0002181),15
+164,RPL10A,viral gene expression (GO:0019080),15
+165,ARHGAP35,positive regulation of cilium assembly (GO:0045724),15
+166,RPL23A,ncRNA processing (GO:0034470),15
+167,ARHGAP35,positive regulation of neuron projection development (GO:0010976),15
+168,ARHGAP35,positive regulation of neuron differentiation (GO:0045666),15
+169,RPL23A,viral transcription (GO:0019083),15
+170,RPL23A,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),15
+171,RPL23A,rRNA processing (GO:0006364),15
+172,RPL23A,ribosomal large subunit assembly (GO:0000027),15
+173,RPL23A,protein targeting to ER (GO:0045047),15
+174,ARHGAP35,regulation of neuron projection development (GO:0010975),15
+175,ARHGAP35,regulation of axonogenesis (GO:0050770),15
+176,ARHGAP35,axonal fasciculation (GO:0007413),15
+177,RPS7,rRNA processing (GO:0006364),14
+178,CAMK2B,regulation of neuronal synaptic plasticity (GO:0048168),14
+179,RPS7,viral gene expression (GO:0019080),14
+180,RPS7,rRNA metabolic process (GO:0016072),14
+181,RPS27,nuclear-transcribed mRNA catabolic process (GO:0000956),14
+182,CAMK2B,regulation of dendritic spine development (GO:0060998),14
+183,RPS27,rRNA metabolic process (GO:0016072),14
+184,RPS27,protein targeting to ER (GO:0045047),14
+185,RPS27,rRNA processing (GO:0006364),14
+186,RPS27,viral gene expression (GO:0019080),14
+187,RPS27,ribosomal small subunit assembly (GO:0000028),14
+188,RPS27,translation (GO:0006412),14
+189,RPS27,ribosome biogenesis (GO:0042254),14
+190,RPS27,cotranslational protein targeting to membrane (GO:0006613),14
+191,RPS27,peptide biosynthetic process (GO:0043043),14
+192,RPS27,ncRNA processing (GO:0034470),14
+193,RPS27,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),14
+194,RPS7,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),14
+195,RPS27,viral transcription (GO:0019083),14
+196,RPS7,nuclear-transcribed mRNA catabolic process (GO:0000956),14
+197,CAMK2B,regulation of metal ion transport (GO:0010959),14
+198,CAMK2B,regulation of synapse maturation (GO:0090128),14
+199,CAMK2B,positive regulation of nervous system development (GO:0051962),14
+200,CAMK2B,positive regulation of cell projection organization (GO:0031346),14
+201,CAMK2B,positive regulation of neuron differentiation (GO:0045666),14
+202,CAMK2B,regulation of dendrite development (GO:0050773),14
+203,RPS7,ncRNA processing (GO:0034470),14
+204,RPS7,protein targeting to ER (GO:0045047),14
+205,RPS7,peptide biosynthetic process (GO:0043043),14
+206,RPS7,cotranslational protein targeting to membrane (GO:0006613),14
+207,RPS7,ribosome biogenesis (GO:0042254),14
+208,RPS7,negative regulation of ubiquitin-protein transferase activity (GO:0051444),14
+209,RPS7,translation (GO:0006412),14
+210,RPS7,cytoplasmic translation (GO:0002181),14
+211,RPS7,viral transcription (GO:0019083),14
+212,CAMK2B,regulation of synapse organization (GO:0050807),14
+213,CAMK2B,regulation of long-term neuronal synaptic plasticity (GO:0048169),14
+214,CAMK2B,positive regulation of dendritic spine development (GO:0060999),14
+215,CAMK2B,regulation of neuron projection development (GO:0010975),14
+216,CAMK2B,positive regulation of synapse maturation (GO:0090129),14
+217,RPS27,ribosome assembly (GO:0042255),14
+218,CAMK2B,positive regulation of neuron projection development (GO:0010976),14
+219,RPS23,peptide biosynthetic process (GO:0043043),13
+220,RPS23,rRNA metabolic process (GO:0016072),13
+221,RPS23,ncRNA processing (GO:0034470),13
+222,RPS23,viral transcription (GO:0019083),13
+223,RPS23,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),13
+224,RPS23,ribosome biogenesis (GO:0042254),13
+225,RPS23,nuclear-transcribed mRNA catabolic process (GO:0000956),13
+226,RPS23,translation (GO:0006412),13
+227,RPS23,cytoplasmic translation (GO:0002181),13
+228,RPS23,rRNA processing (GO:0006364),13
+229,RPS23,cotranslational protein targeting to membrane (GO:0006613),13
+230,RPS23,protein targeting to ER (GO:0045047),13
+231,RPS23,viral gene expression (GO:0019080),13
+232,RPL41,rRNA metabolic process (GO:0016072),13
+233,RPL19,peptide biosynthetic process (GO:0043043),13
+234,RPL19,viral transcription (GO:0019083),13
+235,CACNG4,regulation of cation channel activity (GO:2001257),13
+236,RPL19,protein targeting to ER (GO:0045047),13
+237,RPL19,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),13
+238,RPL41,nuclear-transcribed mRNA catabolic process (GO:0000956),13
+239,RPL41,viral gene expression (GO:0019080),13
+240,RPL41,cytoplasmic translation (GO:0002181),13
+241,RPL41,translation (GO:0006412),13
+242,RPL19,ribosome biogenesis (GO:0042254),13
+243,RPL41,protein targeting to ER (GO:0045047),13
+244,RPL41,rRNA processing (GO:0006364),13
+245,RPL41,viral transcription (GO:0019083),13
+246,RPL41,ncRNA processing (GO:0034470),13
+247,RPL41,peptide biosynthetic process (GO:0043043),13
+248,RPL41,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),13
+249,RPL41,ribosome biogenesis (GO:0042254),13
+250,RPL41,cotranslational protein targeting to membrane (GO:0006613),13
+251,RPL19,cotranslational protein targeting to membrane (GO:0006613),13
+252,RPL19,rRNA processing (GO:0006364),13
+253,RPL19,ncRNA processing (GO:0034470),13
+254,CACNG4,neurotransmitter receptor diffusion trapping (GO:0099628),13
+255,CACNG4,positive regulation of synaptic transmission (GO:0050806),13
+256,CACNG4,receptor localization to synapse (GO:0097120),13
+257,CACNG4,"positive regulation of synaptic transmission, glutamatergic (GO:0051968)",13
+258,CACNG4,regulation of AMPA receptor activity (GO:2000311),13
+259,RPL19,rRNA metabolic process (GO:0016072),13
+260,CACNG4,neurotransmitter receptor transport (GO:0099637),13
+261,CACNG4,"neurotransmitter receptor transport, postsynaptic endosome to lysosome (GO:0098943)",13
+262,CACNG4,membrane depolarization (GO:0051899),13
+263,CACNG4,regulation of neurotransmitter receptor activity (GO:0099601),13
+264,CACNG4,neurotransmitter receptor internalization (GO:0099590),13
+265,CACNG4,regulation of glutamate receptor signaling pathway (GO:1900449),13
+266,RPL19,viral gene expression (GO:0019080),13
+267,RPL19,cytoplasmic translation (GO:0002181),13
+268,RPL19,translation (GO:0006412),13
+269,RPL19,nuclear-transcribed mRNA catabolic process (GO:0000956),13
+270,CACNG4,postsynaptic neurotransmitter receptor diffusion trapping (GO:0098970),13
+271,RPS15A,nuclear-transcribed mRNA catabolic process (GO:0000956),12
+272,RPS15A,peptide biosynthetic process (GO:0043043),12
+273,RPS15A,cotranslational protein targeting to membrane (GO:0006613),12
+274,RPS15A,ribosome biogenesis (GO:0042254),12
+275,RPS15A,protein targeting to ER (GO:0045047),12
+276,RPS15A,viral transcription (GO:0019083),12
+277,RPS15A,viral gene expression (GO:0019080),12
+278,RPS15A,rRNA metabolic process (GO:0016072),12
+279,RPS15A,rRNA processing (GO:0006364),12
+280,RPS15A,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),12
+281,KCNQ1,atrial cardiac muscle cell action potential (GO:0086014),12
+282,RPS15A,ncRNA processing (GO:0034470),12
+283,KCNQ1,cellular response to catecholamine stimulus (GO:0071870),12
+284,RPS25,ribosome biogenesis (GO:0042254),12
+285,KCNQ1,regulation of secretion (GO:0051046),12
+286,RPS25,cotranslational protein targeting to membrane (GO:0006613),12
+287,RPS25,peptide biosynthetic process (GO:0043043),12
+288,RPS25,ncRNA processing (GO:0034470),12
+289,RPS25,viral transcription (GO:0019083),12
+290,KCNQ1,regulation of ventricular cardiac muscle cell membrane repolarization (GO:0060307),12
+291,KCNQ1,heart contraction (GO:0060047),12
+292,KCNQ1,regulation of cardiac muscle cell membrane repolarization (GO:0099623),12
+293,KCNQ1,regulation of heart contraction (GO:0008016),12
+294,RPS25,rRNA metabolic process (GO:0016072),12
+295,RPS25,protein targeting to ER (GO:0045047),12
+296,RPS25,viral gene expression (GO:0019080),12
+297,RPS25,translation (GO:0006412),12
+298,RPS25,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),12
+299,RPS25,rRNA processing (GO:0006364),12
+300,KCNQ1,positive regulation of cation transmembrane transport (GO:1904064),12
+301,KCNQ1,positive regulation of potassium ion transport (GO:0043268),12
+302,KCNQ1,response to cAMP (GO:0051591),12
+303,KCNQ1,cellular response to cAMP (GO:0071320),12
+304,KCNQ1,positive regulation of heart contraction (GO:0045823),12
+305,RPS25,nuclear-transcribed mRNA catabolic process (GO:0000956),12
+306,RPS15A,translation (GO:0006412),12
+307,PKD1,lung development (GO:0030324),11
+308,PLXNB1,regulation of axonogenesis (GO:0050770),11
+309,PLXNB1,positive regulation of neuron projection development (GO:0010976),11
+310,PLXNB1,positive regulation of cell morphogenesis involved in differentiation (GO:0010770),11
+311,PKD1,cytoplasmic sequestering of protein (GO:0051220),11
+312,PLXNB1,regulation of osteoblast proliferation (GO:0033688),11
+313,PKD1,negative regulation of transcription factor import into nucleus (GO:0042992),11
+314,PKD1,detection of mechanical stimulus (GO:0050982),11
+315,PKD1,mesonephric tubule development (GO:0072164),11
+316,PKD1,skeletal system development (GO:0001501),11
+317,PKD1,chordate embryonic development (GO:0043009),11
+318,PKD1,connective tissue development (GO:0061448),11
+319,PKD1,cytoplasmic sequestering of transcription factor (GO:0042994),11
+320,PKD1,cartilage development (GO:0051216),11
+321,PKD1,in utero embryonic development (GO:0001701),11
+322,PLXNB1,positive regulation of axonogenesis (GO:0050772),11
+323,PLXNB1,regulation of cytoskeleton organization (GO:0051493),11
+324,PLXNB1,semaphorin-plexin signaling pathway involved in axon guidance (GO:1902287),11
+325,PLXNB1,neuron projection morphogenesis (GO:0048812),11
+326,PLXNB1,semaphorin-plexin signaling pathway involved in neuron projection guidance (GO:1902285),11
+327,PLXNB1,axon extension (GO:0048675),11
+328,PLXNB1,semaphorin-plexin signaling pathway (GO:0071526),11
+329,BAIAP2,regulation of actin cytoskeleton reorganization (GO:2000249),11
+330,BAIAP2,regulation of cytoskeleton organization (GO:0051493),11
+331,BAIAP2,axon development (GO:0061564),11
+332,BAIAP2,positive regulation of supramolecular fiber organization (GO:1902905),11
+333,BAIAP2,neuron projection morphogenesis (GO:0048812),11
+334,BAIAP2,Fc-gamma receptor signaling pathway (GO:0038094),11
+335,BAIAP2,positive regulation of cytoskeleton organization (GO:0051495),11
+336,BAIAP2,Fc receptor mediated stimulatory signaling pathway (GO:0002431),11
+337,BAIAP2,Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096),11
+338,BAIAP2,vascular endothelial growth factor receptor signaling pathway (GO:0048010),11
+339,BAIAP2,cell morphogenesis involved in neuron differentiation (GO:0048667),11
+340,AGRN,acetylcholine receptor signaling pathway (GO:0095500),10
+341,AGRN,positive regulation of synapse assembly (GO:0051965),10
+342,AGRN,receptor clustering (GO:0043113),10
+343,AGRN,neuronal ion channel clustering (GO:0045161),10
+344,SYT17,positive regulation of dendrite extension (GO:1903861),10
+345,AGRN,aminoglycan catabolic process (GO:0006026),10
+346,AGRN,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),10
+347,AGRN,positive regulation of developmental growth (GO:0048639),10
+348,AGRN,aminoglycan biosynthetic process (GO:0006023),10
+349,AGRN,aminoglycan metabolic process (GO:0006022),10
+350,AGRN,regulation of filopodium assembly (GO:0051489),10
+351,APOD,negative regulation of protein import into nucleus (GO:0042308),10
+352,APOD,negative regulation of intracellular protein transport (GO:0090317),10
+353,APOD,regulation of platelet-derived growth factor receptor signaling pathway (GO:0010640),10
+354,APOD,negative regulation of focal adhesion assembly (GO:0051895),10
+355,APOD,response to axon injury (GO:0048678),10
+356,APOD,negative regulation of cell-matrix adhesion (GO:0001953),10
+357,APOD,regulation of protein import into nucleus (GO:0042306),10
+358,APOD,axon regeneration (GO:0031103),10
+359,APOD,negative regulation of cell junction assembly (GO:1901889),10
+360,APOD,negative regulation of adherens junction organization (GO:1903392),10
+361,SYT17,clathrin-dependent endocytosis (GO:0072583),10
+362,SYT17,synaptic vesicle endocytosis (GO:0048488),10
+363,SYT17,positive regulation of neuron projection development (GO:0010976),10
+364,SYT17,synaptic vesicle recycling (GO:0036465),10
+365,SYT17,positive regulation of developmental growth (GO:0048639),10
+366,SYT17,regulation of calcium ion-dependent exocytosis (GO:0017158),10
+367,SYT17,regulation of dendrite extension (GO:1903859),10
+368,SYT17,vesicle-mediated transport in synapse (GO:0099003),10
+369,SYT17,regulation of regulated secretory pathway (GO:1903305),10
+370,ARHGAP6,actin filament polymerization (GO:0030041),9
+371,ARHGAP6,negative regulation of cell junction assembly (GO:1901889),9
+372,ARHGAP6,actin polymerization or depolymerization (GO:0008154),9
+373,ARHGAP6,negative regulation of focal adhesion assembly (GO:0051895),9
+374,ARHGAP6,Rho protein signal transduction (GO:0007266),9
+375,ARHGAP6,negative regulation of stress fiber assembly (GO:0051497),9
+376,ARHGAP6,negative regulation of cell-matrix adhesion (GO:0001953),9
+377,ARHGAP6,negative regulation of actin filament bundle assembly (GO:0032232),9
+378,ARHGAP6,negative regulation of adherens junction organization (GO:1903392),9
+379,HSP90AB1,positive regulation of reactive oxygen species biosynthetic process (GO:1903428),8
+380,HSP90AB1,Fc-gamma receptor signaling pathway (GO:0038094),8
+381,HSP90AB1,positive regulation of phosphatase activity (GO:0010922),8
+382,HSP90AB1,positive regulation of nitric oxide metabolic process (GO:1904407),8
+383,HSP90AB1,negative regulation of cell cycle arrest (GO:0071157),8
+384,LRP4,negative regulation of neuron projection development (GO:0010977),8
+385,RUNX1,cartilage development (GO:0051216),8
+386,RUNX1,positive regulation of interleukin-2 production (GO:0032743),8
+387,LRP4,cell morphogenesis involved in neuron differentiation (GO:0048667),8
+388,LRP4,neuromuscular junction development (GO:0007528),8
+389,LRP4,neuron projection morphogenesis (GO:0048812),8
+390,RUNX1,regulation of intracellular steroid hormone receptor signaling pathway (GO:0033143),8
+391,RUNX1,regulation of T cell differentiation (GO:0045580),8
+392,HSP90AB1,Fc receptor mediated stimulatory signaling pathway (GO:0002431),8
+393,RUNX1,regulation of interleukin-2 production (GO:0032663),8
+394,RUNX1,regulation of response to cytokine stimulus (GO:0060759),8
+395,RUNX1,regulation of bicellular tight junction assembly (GO:2000810),8
+396,HSP90AB1,positive regulation of nitric oxide biosynthetic process (GO:0045429),8
+397,RUNX1,regulation of cell junction assembly (GO:1901888),8
+398,HSP90AB1,Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096),8
+399,PALM,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),8
+400,PALM,negative regulation of lyase activity (GO:0051350),8
+401,LRP4,receptor clustering (GO:0043113),8
+402,PALM,negative regulation of cAMP biosynthetic process (GO:0030818),8
+403,PALM,regulation of filopodium assembly (GO:0051489),8
+404,PALM,negative regulation of cyclase activity (GO:0031280),8
+405,PALM,negative regulation of G-protein coupled receptor protein signaling pathway (GO:0045744),8
+406,PALM,regulation of adenylate cyclase activity (GO:0045761),8
+407,PALM,negative regulation of adenylate cyclase activity (GO:0007194),8
+408,LRP4,presynaptic membrane assembly (GO:0097105),8
+409,LRP4,presynapse assembly (GO:0099054),8
+410,LRP4,regulation of axonogenesis (GO:0050770),8
+411,SYN1,regulation of synaptic vesicle cycle (GO:0098693),7
+412,ATP1A3,neuron projection organization (GO:0106027),7
+413,NDUFB9,mitochondrial respiratory chain complex I biogenesis (GO:0097031),7
+414,NDUFB9,mitochondrial respiratory chain complex I assembly (GO:0032981),7
+415,NDUFB9,respiratory electron transport chain (GO:0022904),7
+416,NDUFB9,"mitochondrial electron transport, NADH to ubiquinone (GO:0006120)",7
+417,NDUFB9,mitochondrial respiratory chain complex assembly (GO:0033108),7
+418,ATP1A3,regulation of heart contraction (GO:0008016),7
+419,ATP1A3,cellular response to amyloid-beta (GO:1904646),7
+420,ATP1A3,regulation of cardiac conduction (GO:1903779),7
+421,ATP1A3,neuron projection maintenance (GO:1990535),7
+422,ATP1A3,cellular potassium ion homeostasis (GO:0030007),7
+423,ATP1A3,cell communication by electrical coupling involved in cardiac conduction (GO:0086064),7
+424,SYN1,chemical synaptic transmission (GO:0007268),7
+425,NDUFB9,mitochondrial ATP synthesis coupled electron transport (GO:0042775),7
+426,NDUFB9,NADH dehydrogenase complex assembly (GO:0010257),7
+427,NDUFA12,mitochondrial ATP synthesis coupled electron transport (GO:0042775),7
+428,NDUFA12,NADH dehydrogenase complex assembly (GO:0010257),7
+429,NDUFA12,mitochondrial respiratory chain complex I biogenesis (GO:0097031),7
+430,NDUFA12,mitochondrial respiratory chain complex I assembly (GO:0032981),7
+431,NDUFA12,respiratory electron transport chain (GO:0022904),7
+432,NDUFA12,"mitochondrial electron transport, NADH to ubiquinone (GO:0006120)",7
+433,NDUFA12,mitochondrial respiratory chain complex assembly (GO:0033108),7
+434,SYN1,regulation of synaptic vesicle transport (GO:1902803),7
+435,SYN1,regulation of secretion by cell (GO:1903530),7
+436,SYN1,regulation of calcium ion-dependent exocytosis (GO:0017158),7
+437,SYN1,regulation of neurotransmitter transport (GO:0051588),7
+438,SYN1,regulation of cellular localization (GO:0060341),7
+439,RAPGEF3,endothelial cell development (GO:0001885),7
+440,RAPGEF3,positive regulation of stress fiber assembly (GO:0051496),7
+441,RAPGEF3,establishment of endothelial barrier (GO:0061028),7
+442,RAPGEF3,response to cAMP (GO:0051591),7
+443,RAPGEF3,cellular response to cAMP (GO:0071320),7
+444,RAPGEF3,positive regulation of actin filament bundle assembly (GO:0032233),7
+445,RAPGEF3,regulation of actin cytoskeleton reorganization (GO:2000249),7
+446,PER1,regulation of metal ion transport (GO:0010959),6
+447,SLIT1,cell morphogenesis involved in neuron differentiation (GO:0048667),6
+448,SLIT1,neuron projection morphogenesis (GO:0048812),6
+449,SLIT1,regulation of synapse assembly (GO:0051963),6
+450,SLIT1,axon development (GO:0061564),6
+451,PER1,negative regulation of JNK cascade (GO:0046329),6
+452,SLIT1,motor neuron axon guidance (GO:0008045),6
+453,PER1,histone deacetylation (GO:0016575),6
+454,SRCIN1,regulation of dendritic spine development (GO:0060998),6
+455,PER1,entrainment of circadian clock by photoperiod (GO:0043153),6
+456,PER1,negative regulation of stress-activated MAPK cascade (GO:0032873),6
+457,SRCIN1,negative regulation of protein tyrosine kinase activity (GO:0061099),6
+458,SLIT1,axon extension (GO:0048675),6
+459,SRCIN1,negative regulation of protein kinase activity (GO:0006469),6
+460,SRCIN1,positive regulation of protein tyrosine kinase activity (GO:0061098),6
+461,SRCIN1,negative regulation of peptidyl-tyrosine phosphorylation (GO:0050732),6
+462,PER1,histone H3 deacetylation (GO:0070932),6
+463,SRCIN1,regulation of protein tyrosine kinase activity (GO:0061097),6
+464,RAB11A,mitotic sister chromatid segregation (GO:0000070),5
+465,GNAS,skeletal system development (GO:0001501),5
+466,SYT7,synaptic vesicle cycle (GO:0099504),5
+467,RAB11A,melanosome transport (GO:0032402),5
+468,NAPA,chemical synaptic transmission (GO:0007268),5
+469,NAPA,"vesicle targeting, rough ER to cis-Golgi (GO:0048207)",5
+470,NAPA,COPII-coated vesicle budding (GO:0090114),5
+471,NAPA,COPII vesicle coating (GO:0048208),5
+472,NAPA,vesicle coating (GO:0006901),5
+473,SYT7,regulation of regulated secretory pathway (GO:1903305),5
+474,CSNK1E,rRNA metabolic process (GO:0016072),5
+475,CSNK1E,rRNA processing (GO:0006364),5
+476,CSNK1E,ncRNA processing (GO:0034470),5
+477,CSNK1E,ribosome biogenesis (GO:0042254),5
+478,ADGRL1,positive regulation of nervous system development (GO:0051962),5
+479,ADGRL1,calcium-mediated signaling (GO:0019722),5
+480,ADGRL1,regulation of synapse maturation (GO:0090128),5
+481,ADGRL1,positive regulation of synapse maturation (GO:0090129),5
+482,ADGRL1,calcium-mediated signaling using intracellular calcium source (GO:0035584),5
+483,SYT7,regulation of calcium ion-dependent exocytosis (GO:0017158),5
+484,B2M,response to iron ion (GO:0010039),5
+485,GNAS,dopamine receptor signaling pathway (GO:0007212),5
+486,GNAS,homotypic cell-cell adhesion (GO:0034109),5
+487,RAB11A,renal water homeostasis (GO:0003091),5
+488,RAB11A,pigment granule transport (GO:0051904),5
+489,SLC8A2,regulation of cardiac conduction (GO:1903779),5
+490,SLC8A2,regulation of short-term neuronal synaptic plasticity (GO:0048172),5
+491,B2M,positive regulation of T cell cytokine production (GO:0002726),5
+492,B2M,regulation of T cell cytokine production (GO:0002724),5
+493,B2M,positive regulation of cytokine production involved in immune response (GO:0002720),5
+494,B2M,positive regulation of T cell mediated immunity (GO:0002711),5
+495,SLC8A2,positive regulation of synaptic transmission (GO:0050806),5
+496,SLC8A2,regulation of neuronal synaptic plasticity (GO:0048168),5
+497,CSNK1E,regulation of cellular localization (GO:0060341),5
+498,SYT7,plasma membrane organization (GO:0007009),5
+499,RAB11A,astral microtubule organization (GO:0030953),5
+500,SLC8A2,regulation of heart contraction (GO:0008016),5
+501,SYT7,synaptic vesicle recycling (GO:0036465),5
+502,GNAS,platelet aggregation (GO:0070527),5
+503,GNAS,bone development (GO:0060348),5
+504,SLC25A29,cation transport (GO:0006812),4
+505,SLC25A29,cation transmembrane transport (GO:0098655),4
+506,SLC25A29,amino acid transport (GO:0006865),4
+507,SLC6A7,neutral amino acid transport (GO:0015804),4
+508,SLC25A29,nitrogen compound transport (GO:0071705),4
+509,SEMA4A,regulation of axon extension involved in axon guidance (GO:0048841),4
+510,SEMA4A,semaphorin-plexin signaling pathway (GO:0071526),4
+511,SEMA4A,ameboidal-type cell migration (GO:0001667),4
+512,SLC6A7,cation transmembrane transport (GO:0098655),4
+513,SEMA4A,neural crest cell development (GO:0014032),4
+514,NTNG2,C-terminal protein amino acid modification (GO:0018410),4
+515,RPP38,ribosome biogenesis (GO:0042254),4
+516,CPNE5,positive regulation of dendrite extension (GO:1903861),4
+517,CPNE5,regulation of dendrite extension (GO:1903859),4
+518,DDX56,ribosome biogenesis (GO:0042254),4
+519,DDX56,ncRNA processing (GO:0034470),4
+520,DDX56,rRNA processing (GO:0006364),4
+521,DDX56,rRNA metabolic process (GO:0016072),4
+522,DEF8,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),4
+523,DEF8,regulation of bone resorption (GO:0045124),4
+524,DEF8,positive regulation of bone resorption (GO:0045780),4
+525,DEF8,positive regulation of bone remodeling (GO:0046852),4
+526,RPP38,rRNA metabolic process (GO:0016072),4
+527,GPSM2,establishment of mitotic spindle orientation (GO:0000132),4
+528,GPSM2,positive regulation of cytoskeleton organization (GO:0051495),4
+529,GPSM2,regulation of protein localization to cell cortex (GO:1904776),4
+530,IL7,cellular response to interleukin-7 (GO:0098761),4
+531,IL7,interleukin-7-mediated signaling pathway (GO:0038111),4
+532,CPNE5,positive regulation of developmental growth (GO:0048639),4
+533,CPNE5,positive regulation of neuron projection development (GO:0010976),4
+534,IL7,regulation of T cell differentiation (GO:0045580),4
+535,TUBB4A,regulation of microtubule polymerization (GO:0031113),4
+536,TYRO3,negative regulation of innate immune response (GO:0045824),4
+537,TYRO3,platelet aggregation (GO:0070527),4
+538,TYRO3,phosphatidylinositol-mediated signaling (GO:0048015),4
+539,TYRO3,homotypic cell-cell adhesion (GO:0034109),4
+540,TUBB4A,negative regulation of microtubule polymerization or depolymerization (GO:0031111),4
+541,BIN1,negative regulation of amyloid precursor protein catabolic process (GO:1902992),4
+542,BIN1,regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process (GO:1902959),4
+543,BIN1,negative regulation of amyloid-beta formation (GO:1902430),4
+544,BIN1,positive regulation of glial cell differentiation (GO:0045687),4
+545,TUBB4A,negative regulation of protein polymerization (GO:0032272),4
+546,TUBB4A,negative regulation of microtubule polymerization (GO:0031115),4
+547,CACNA1A,membrane depolarization (GO:0051899),4
+548,CACNA1A,cellular response to amyloid-beta (GO:1904646),4
+549,CACNA1A,regulation of cytosolic calcium ion concentration (GO:0051480),4
+550,CACNA1A,chemical synaptic transmission (GO:0007268),4
+551,IL7,positive regulation of cytokine-mediated signaling pathway (GO:0001961),4
+552,GPSM2,establishment of mitotic spindle localization (GO:0040001),4
+553,PLP1,gliogenesis (GO:0042063),4
+554,PLP1,axon development (GO:0061564),4
+555,NRXN2,protein localization to synapse (GO:0035418),4
+556,NTNG2,cell morphogenesis involved in neuron differentiation (GO:0048667),4
+557,NTNG2,axon development (GO:0061564),4
+558,SLC6A7,cation transport (GO:0006812),4
+559,NTNG2,neuron projection morphogenesis (GO:0048812),4
+560,PLP1,chemical synaptic transmission (GO:0007268),4
+561,PLP1,substantia nigra development (GO:0021762),4
+562,NRXN2,chemical synaptic transmission (GO:0007268),4
+563,PPP1R9B,cellular response to ammonium ion (GO:0071242),4
+564,PPP1R9B,regulation of G-protein coupled receptor protein signaling pathway (GO:0008277),4
+565,PPP1R9B,calcium-mediated signaling (GO:0019722),4
+566,PPP1R9B,second-messenger-mediated signaling (GO:0019932),4
+567,RPP38,rRNA processing (GO:0006364),4
+568,RPP38,ncRNA processing (GO:0034470),4
+569,NRXN2,receptor clustering (GO:0043113),4
+570,SLC6A7,proline transport (GO:0015824),4
+571,NRXN2,postsynaptic density assembly (GO:0097107),4
+572,HPCA,regulation of calcium ion transmembrane transporter activity (GO:1901019),3
+573,PRKG1,negative regulation of vascular smooth muscle cell proliferation (GO:1904706),3
+574,HPCA,regulation of voltage-gated calcium channel activity (GO:1901385),3
+575,KNDC1,regulation of neuron projection development (GO:0010975),3
+576,KNDC1,cell differentiation in hindbrain (GO:0021533),3
+577,LARP1,cellular response to alcohol (GO:0097306),3
+578,LARP1,TORC1 signaling (GO:0038202),3
+579,PPP2R1A,nuclear-transcribed mRNA catabolic process (GO:0000956),3
+580,PPP2R1A,second-messenger-mediated signaling (GO:0019932),3
+581,PPP2R1A,negative regulation of peptidyl-tyrosine phosphorylation (GO:0050732),3
+582,BCAR1,hepatocyte growth factor receptor signaling pathway (GO:0048012),3
+583,BCAR1,vascular endothelial growth factor receptor signaling pathway (GO:0048010),3
+584,BCAR1,cell chemotaxis (GO:0060326),3
+585,PRKG1,negative regulation of smooth muscle cell migration (GO:0014912),3
+586,PRKG1,regulation of vascular associated smooth muscle cell migration (GO:1904752),3
+587,INSIG1,sterol homeostasis (GO:0055092),3
+588,ARPP19,positive regulation of glucose transport (GO:0010828),3
+589,ARPP19,positive regulation of glucose import (GO:0046326),3
+590,ARPP19,regulation of glucose import (GO:0046324),3
+591,LARP1,regulation of viral genome replication (GO:0045069),3
+592,LRFN4,cell morphogenesis involved in neuron differentiation (GO:0048667),3
+593,ALCAM,neuron projection morphogenesis (GO:0048812),3
+594,ALCAM,axon extension (GO:0048675),3
+595,ALCAM,retinal ganglion cell axon guidance (GO:0031290),3
+596,SLC43A2,neutral amino acid transport (GO:0015804),3
+597,SLC43A2,amino acid transport (GO:0006865),3
+598,SLC43A2,nitrogen compound transport (GO:0071705),3
+599,INSIG1,cholesterol homeostasis (GO:0042632),3
+600,KNDC1,regulation of dendrite development (GO:0050773),3
+601,CAMK2N1,negative regulation of protein kinase activity (GO:0006469),3
+602,PABPC4,peptide biosynthetic process (GO:0043043),3
+603,HPCA,regulation of cation channel activity (GO:2001257),3
+604,MMD2,positive regulation of small GTPase mediated signal transduction (GO:0051057),3
+605,GIT1,regulation of G-protein coupled receptor protein signaling pathway (GO:0008277),3
+606,GIT1,ephrin receptor signaling pathway (GO:0048013),3
+607,GIT1,regulation of ARF protein signal transduction (GO:0032012),3
+608,DOCK5,regulation of vascular associated smooth muscle cell migration (GO:1904752),3
+609,DOCK5,positive regulation of cell morphogenesis involved in differentiation (GO:0010770),3
+610,DOCK5,positive regulation of smooth muscle cell migration (GO:0014911),3
+611,MMD2,positive regulation of Ras protein signal transduction (GO:0046579),3
+612,CAMK2N1,regulation of cyclin-dependent protein kinase activity (GO:1904029),3
+613,INSIG1,negative regulation of intracellular protein transport (GO:0090317),3
+614,PABPC4,nucleobase-containing compound catabolic process (GO:0034655),3
+615,MMD2,positive regulation of neuron differentiation (GO:0045666),3
+616,PABPC4,translation (GO:0006412),3
+617,PDE5A,purine ribonucleotide catabolic process (GO:0009154),3
+618,CAMK2N1,negative regulation of kinase activity (GO:0033673),3
+619,CAPZB,regulation of lamellipodium organization (GO:1902743),3
+620,CAPZB,negative regulation of plasma membrane bounded cell projection assembly (GO:0120033),3
+621,CAPZB,regulation of filopodium assembly (GO:0051489),3
+622,PDE4A,purine ribonucleotide catabolic process (GO:0009154),3
+623,LRFN4,neuron projection morphogenesis (GO:0048812),3
+624,PDE5A,cyclic nucleotide catabolic process (GO:0009214),3
+625,PDE5A,cGMP metabolic process (GO:0046068),3
+626,PDE4A,cAMP metabolic process (GO:0046058),3
+627,PDE4A,cyclic nucleotide catabolic process (GO:0009214),3
+628,LRFN4,axon development (GO:0061564),3
+629,SLC7A5,neutral amino acid transport (GO:0015804),2
+630,SLC7A5,amino acid transport (GO:0006865),2
+631,UBTF,termination of RNA polymerase I transcription (GO:0006363),2
+632,UBTF,transcription elongation from RNA polymerase I promoter (GO:0006362),2
+633,WDR74,ribosomal large subunit biogenesis (GO:0042273),2
+634,WDR74,ribosome biogenesis (GO:0042254),2
+635,ZER1,regulation of transferase activity (GO:0051338),2
+636,ZER1,regulation of ubiquitin-protein transferase activity (GO:0051438),2
+637,SLC17A7,chemical synaptic transmission (GO:0007268),2
+638,FASTKD2,cellular respiration (GO:0045333),2
+639,NSMF,regulation of dendrite development (GO:0050773),2
+640,MAPK11,cellular response to virus (GO:0098586),2
+641,MAPK11,vascular endothelial growth factor receptor signaling pathway (GO:0048010),2
+642,MAP2K2,regulation of cytoplasmic transport (GO:1903649),2
+643,MAP2K2,ERK1 and ERK2 cascade (GO:0070371),2
+644,LPAR6,positive regulation of Ras protein signal transduction (GO:0046579),2
+645,LPAR6,phospholipase C-activating G-protein coupled receptor signaling pathway (GO:0007200),2
+646,HHIP,skeletal system morphogenesis (GO:0048705),2
+647,FASTKD2,ribosomal large subunit assembly (GO:0000027),2
+648,PCYT2,phosphatidylethanolamine metabolic process (GO:0046337),2
+649,DDRGK1,positive regulation of transcription regulatory region DNA binding (GO:2000679),2
+650,DDRGK1,regulation of intracellular steroid hormone receptor signaling pathway (GO:0033143),2
+651,DCLRE1C,telomere capping (GO:0016233),2
+652,DCLRE1C,double-strand break repair via nonhomologous end joining (GO:0006303),2
+653,CEP290,positive regulation of intracellular transport (GO:0032388),2
+654,CEP290,regulation of establishment of protein localization (GO:0070201),2
+655,AJAP1,negative regulation of response to wounding (GO:1903035),2
+656,AJAP1,negative regulation of cell-matrix adhesion (GO:0001953),2
+657,NSMF,regulation of neuronal synaptic plasticity (GO:0048168),2
+658,HHIP,skeletal system development (GO:0001501),2
+659,PCYT2,phosphatidylethanolamine biosynthetic process (GO:0006646),2
+660,SLC17A7,synaptic vesicle cycle (GO:0099504),2
+661,PIAS4,positive regulation of protein sumoylation (GO:0033235),2
+662,PIAS4,double-strand break repair via nonhomologous end joining (GO:0006303),2
+663,PPFIA3,regulation of neuronal synaptic plasticity (GO:0048168),2
+664,RPH3A,regulation of regulated secretory pathway (GO:1903305),2
+665,RPH3A,regulation of calcium ion-dependent exocytosis (GO:0017158),2
+666,PPFIA3,regulation of short-term neuronal synaptic plasticity (GO:0048172),2
+667,ST18,positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway (GO:2001269),1
+668,CELF1,posttranscriptional gene silencing by RNA (GO:0035194),1
+669,CYP3A5,organonitrogen compound catabolic process (GO:1901565),1
+670,CRTC1,entrainment of circadian clock by photoperiod (GO:0043153),1
+671,CRKL,positive regulation of cell morphogenesis involved in differentiation (GO:0010770),1
+672,CIRBP,positive regulation of translation (GO:0045727),1
+673,TIMP3,regulation of membrane protein ectodomain proteolysis (GO:0051043),1
+674,TOM1L1,negative regulation of mitotic cell cycle (GO:0045930),1
+675,BSG,extracellular matrix disassembly (GO:0022617),1
+676,CA1,bicarbonate transport (GO:0015701),1
+677,RAB40C,regulation of secretion by cell (GO:1903530),1
+678,B3GAT2,aminoglycan metabolic process (GO:0006022),1
+679,ATN1,neuron apoptotic process (GO:0051402),1
+680,ASIC1,cellular response to pH (GO:0071467),1
+681,APLP1,cellular response to catecholamine stimulus (GO:0071870),1
+682,ANP32A,nuclear transport (GO:0051169),1
+683,UBE2I,positive regulation of protein sumoylation (GO:0033235),1
+684,ANGPT2,regulation of blood vessel endothelial cell migration (GO:0043535),1
+685,SGTA,regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903069),1
+686,AGAP3,regulation of ARF protein signal transduction (GO:0032012),1
+687,ADAP1,regulation of ARF protein signal transduction (GO:0032012),1
+688,RANGAP1,negative regulation of intracellular protein transport (GO:0090317),1
+689,DNAJB2,negative regulation of inclusion body assembly (GO:0090084),1
+690,PTPRN,cellular response to glucose stimulus (GO:0071333),1
+691,KCNQ2,chemical synaptic transmission (GO:0007268),1
+692,PI4KB,phosphatidylinositol-mediated signaling (GO:0048015),1
+693,NCS1,regulation of neuron projection development (GO:0010975),1
+694,MYO9B,Rho protein signal transduction (GO:0007266),1
+695,MTA1,entrainment of circadian clock by photoperiod (GO:0043153),1
+696,MGST1,prostaglandin biosynthetic process (GO:0001516),1
+697,ACTN4,regulation of NIK/NF-kappaB signaling (GO:1901222),1
+698,PKD2L2,detection of mechanical stimulus (GO:0050982),1
+699,PODXL2,3'-phosphoadenosine 5'-phosphosulfate metabolic process (GO:0050427),1
+700,POLE2,DNA replication initiation (GO:0006270),1
+701,KDM5C,histone lysine demethylation (GO:0070076),1
+702,JUND,response to cAMP (GO:0051591),1
+703,PTGES2,prostaglandin biosynthetic process (GO:0001516),1
+704,ITGA7,muscle organ development (GO:0007517),1
+705,SLC6A8,amino acid transport (GO:0006865),1
+706,GRIK5,chemical synaptic transmission (GO:0007268),1
+707,GNAO1,dopamine receptor signaling pathway (GO:0007212),1
+708,FN1,extracellular matrix disassembly (GO:0022617),1
+709,TAC1,regulation of cytosolic calcium ion concentration (GO:0051480),1
+710,TF,response to iron ion (GO:0010039),1
+711,PTGDS,prostaglandin biosynthetic process (GO:0001516),1
+712,ENTPD2,nucleobase-containing compound catabolic process (GO:0034655),1
+713,EEF1D,translation (GO:0006412),1
+714,ACAP3,regulation of ARF protein signal transduction (GO:0032012),1
