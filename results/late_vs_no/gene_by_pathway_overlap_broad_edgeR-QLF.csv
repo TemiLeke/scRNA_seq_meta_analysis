@@ -1,0 +1,56 @@
+,genes,pathway,count
+0,CAV3,regulation of heart contraction (GO:0008016),17
+1,CAV3,regulation of blood circulation (GO:1903522),17
+2,CAV3,regulation of cardiac muscle cell contraction (GO:0086004),17
+3,CAV3,organic substance transport (GO:0071702),17
+4,CAV3,triglyceride metabolic process (GO:0006641),17
+5,CAV3,muscle contraction (GO:0006936),17
+6,CAV3,regulation of calcium ion transmembrane transporter activity (GO:1901019),17
+7,CAV3,lipid transport (GO:0006869),17
+8,CAV3,regulation of calcium ion transmembrane transport (GO:1903169),17
+9,CAV3,plasma membrane organization (GO:0007009),17
+10,CAV3,acylglycerol metabolic process (GO:0006639),17
+11,CAV3,muscle cell development (GO:0055001),17
+12,CAV3,sterol homeostasis (GO:0055092),17
+13,CAV3,regulation of membrane depolarization (GO:0003254),17
+14,CAV3,regulation of microtubule polymerization (GO:0031113),17
+15,CAV3,negative regulation of ion transport (GO:0043271),17
+16,CAV3,cholesterol homeostasis (GO:0042632),17
+17,BAIAP2,positive regulation of cytoskeleton organization (GO:0051495),8
+18,BAIAP2,regulation of cytoskeleton organization (GO:0051493),8
+19,BAIAP2,regulation of actin cytoskeleton organization (GO:0032956),8
+20,BAIAP2,cell morphogenesis involved in neuron differentiation (GO:0048667),8
+21,BAIAP2,axon development (GO:0061564),8
+22,BAIAP2,regulation of actin filament-based process (GO:0032970),8
+23,BAIAP2,vascular endothelial growth factor receptor signaling pathway (GO:0048010),8
+24,BAIAP2,regulation of actin filament polymerization (GO:0030833),8
+25,AGRN,neuronal ion channel clustering (GO:0045161),7
+26,AGRN,receptor clustering (GO:0043113),7
+27,AGRN,aminoglycan metabolic process (GO:0006022),7
+28,AGRN,positive regulation of developmental growth (GO:0048639),7
+29,AGRN,positive regulation of synapse assembly (GO:0051965),7
+30,AGRN,regulation of filopodium assembly (GO:0051489),7
+31,AGRN,acetylcholine receptor signaling pathway (GO:0095500),7
+32,ADGRL1,positive regulation of synapse maturation (GO:0090129),6
+33,ADGRL1,positive regulation of nervous system development (GO:0051962),6
+34,ADGRL1,calcium-mediated signaling using intracellular calcium source (GO:0035584),6
+35,ADGRL1,regulation of synapse maturation (GO:0090128),6
+36,ADGRL1,calcium-mediated signaling (GO:0019722),6
+37,ADGRL1,heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157),6
+38,DDX56,rRNA metabolic process (GO:0016072),4
+39,RAB11A,astral microtubule organization (GO:0030953),4
+40,RAB11A,renal water homeostasis (GO:0003091),4
+41,RAB11A,pigment granule transport (GO:0051904),4
+42,RAB11A,melanosome transport (GO:0032402),4
+43,DDX56,rRNA processing (GO:0006364),4
+44,DDX56,ribosome biogenesis (GO:0042254),4
+45,DDX56,ncRNA processing (GO:0034470),4
+46,PDE5A,cyclic nucleotide catabolic process (GO:0009214),3
+47,PDE5A,cGMP metabolic process (GO:0046068),3
+48,PDE5A,purine ribonucleotide catabolic process (GO:0009154),3
+49,AGAP3,regulation of Ras protein signal transduction (GO:0046578),2
+50,AGAP3,regulation of ARF protein signal transduction (GO:0032012),2
+51,UBTF,positive regulation of transcription from RNA polymerase I promoter (GO:0045943),2
+52,UBTF,termination of RNA polymerase I transcription (GO:0006363),2
+53,ANGPT2,regulation of blood vessel endothelial cell migration (GO:0043535),1
+54,TIMP3,regulation of membrane protein ectodomain proteolysis (GO:0051043),1
