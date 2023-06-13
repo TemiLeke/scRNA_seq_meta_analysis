@@ -1,0 +1,65 @@
+,genes,pathway,count
+0,PTK2B,regulation of glutamate receptor signaling pathway (GO:1900449),11
+1,PTK2B,regulation of establishment of cell polarity (GO:2000114),11
+2,PTK2B,positive regulation of cell projection organization (GO:0031346),11
+3,PTK2B,"positive regulation of synaptic transmission, glutamatergic (GO:0051968)",11
+4,PTK2B,regulation of calcium ion transmembrane transport (GO:1903169),11
+5,PTK2B,regulation of neurotransmitter receptor activity (GO:0099601),11
+6,PTK2B,"regulation of synaptic transmission, glutamatergic (GO:0051966)",11
+7,PTK2B,long-term synaptic potentiation (GO:0060291),11
+8,PTK2B,positive regulation of synaptic transmission (GO:0050806),11
+9,PTK2B,regulation of establishment or maintenance of cell polarity (GO:0032878),11
+10,PTK2B,positive regulation of neuron projection development (GO:0010976),11
+11,RPL41,protein targeting to ER (GO:0045047),8
+12,RPL41,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),8
+13,RPL41,peptide biosynthetic process (GO:0043043),8
+14,RPL41,translation (GO:0006412),8
+15,RPS27,cotranslational protein targeting to membrane (GO:0006613),8
+16,RPL41,viral gene expression (GO:0019080),8
+17,RPL41,cotranslational protein targeting to membrane (GO:0006613),8
+18,RPS27,protein targeting to ER (GO:0045047),8
+19,RPS27,SRP-dependent cotranslational protein targeting to membrane (GO:0006614),8
+20,RPL41,viral transcription (GO:0019083),8
+21,RPL41,cytoplasmic translation (GO:0002181),8
+22,RPS27,peptide biosynthetic process (GO:0043043),8
+23,RPS27,translation (GO:0006412),8
+24,RPS27,ribosomal small subunit assembly (GO:0000028),8
+25,RPS27,viral gene expression (GO:0019080),8
+26,RPS27,viral transcription (GO:0019083),8
+27,THY1,regulation of protein tyrosine kinase activity (GO:0061097),7
+28,THY1,positive regulation of calcium ion transport into cytosol (GO:0010524),7
+29,THY1,positive regulation of focal adhesion assembly (GO:0051894),7
+30,THY1,regulation of T cell activation (GO:0050863),7
+31,THY1,negative regulation of protein tyrosine kinase activity (GO:0061099),7
+32,THY1,regulation of axonogenesis (GO:0050770),7
+33,THY1,regulation of T cell receptor signaling pathway (GO:0050856),7
+34,SRCIN1,regulation of dendritic spine development (GO:0060998),4
+35,SRCIN1,positive regulation of protein tyrosine kinase activity (GO:0061098),4
+36,SRCIN1,negative regulation of protein tyrosine kinase activity (GO:0061099),4
+37,SRCIN1,regulation of protein tyrosine kinase activity (GO:0061097),4
+38,AGRN,positive regulation of developmental growth (GO:0048639),4
+39,AGRN,aminoglycan biosynthetic process (GO:0006023),4
+40,GNAS,homotypic cell-cell adhesion (GO:0034109),4
+41,AGRN,aminoglycan metabolic process (GO:0006022),4
+42,AGRN,acetylcholine receptor signaling pathway (GO:0095500),4
+43,GNAS,platelet aggregation (GO:0070527),4
+44,GNAS,adenylate cyclase-activating G-protein coupled receptor signaling pathway (GO:0007189),4
+45,GNAS,dopamine receptor signaling pathway (GO:0007212),4
+46,TUBB4A,negative regulation of microtubule polymerization (GO:0031115),3
+47,TUBB4A,negative regulation of microtubule polymerization or depolymerization (GO:0031111),3
+48,SYN1,regulation of neurotransmitter transport (GO:0051588),3
+49,SYN1,regulation of calcium ion-dependent exocytosis (GO:0017158),3
+50,SYN1,regulation of secretion by cell (GO:1903530),3
+51,TUBB4A,regulation of microtubule polymerization (GO:0031113),3
+52,SLC7A5,neutral amino acid transport (GO:0015804),2
+53,SLC7A5,amino acid transport (GO:0006865),2
+54,BIN1,regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process (GO:1902959),2
+55,BIN1,positive regulation of glial cell differentiation (GO:0045687),2
+56,KNDC1,cell differentiation in hindbrain (GO:0021533),2
+57,KNDC1,regulation of dendrite development (GO:0050773),2
+58,NRXN2,neuron cell-cell adhesion (GO:0007158),1
+59,HPCA,regulation of calcium ion transmembrane transporter activity (GO:1901019),1
+60,BAIAP2,cell morphogenesis involved in neuron differentiation (GO:0048667),1
+61,APLP1,cellular response to catecholamine stimulus (GO:0071870),1
+62,SLC6A8,amino acid transport (GO:0006865),1
+63,SLC25A29,amino acid transport (GO:0006865),1
